@@ -7,9 +7,9 @@ This project aims to replicate core functionalities such as user authentication,
 
 ### Requirements :
 
-## Class Diagram :
+### Class Diagram :
 
-## Technologies Used
+### Technologies Used
 
 - **Spring Boot**: For creating stand-alone, production-grade Spring-based applications.
 - **Java**: As the main programming language.
@@ -17,7 +17,7 @@ This project aims to replicate core functionalities such as user authentication,
 - **MySQL**: For database management.
 - **Java Persistence API (JPA)**: For ORM-based data access.
 
-## Features
+### Features
 
 - **User Authentication**: Secure sign-in and sign-up processes.
 - **Seat Booking**: Real-time seat selection and booking.
