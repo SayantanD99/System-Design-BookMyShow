@@ -43,8 +43,7 @@ Build an online movie ticket booking system that can support the following requi
 
 ### Class Diagram :
 
-![BMS](https://github.com/user-attachments/assets/89bcec00-f6aa-4f0a-89fd-9fc7da5d130a)
-
+![BMS](https://github.com/user-attachments/assets/8c044b84-cc31-4600-acdd-9565c8e3d31d)
 
 ### Technologies Used
 
