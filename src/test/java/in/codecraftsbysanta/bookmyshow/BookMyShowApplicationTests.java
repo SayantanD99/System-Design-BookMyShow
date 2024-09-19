@@ -19,7 +19,7 @@ class BookMyShowMay24ApplicationTests {
     public void testSignUpFunctionality() {
         SignupRequestDto requestDto = new SignupRequestDto();
         requestDto.setName("Jegan");
-        requestDto.setEmail("jegan@scaler.com");
+        requestDto.setEmail("jegan@email.com");
         requestDto.setPassword("123456");
 
         SignupResponseDto responseDto = userController.signUp(
@@ -32,7 +32,7 @@ class BookMyShowMay24ApplicationTests {
     @Test
     public void testLoginFunctionality() {
         LoginRequestDto requestDto = new LoginRequestDto();
-        requestDto.setEmail("zahidul@scaler.com");
+        requestDto.setEmail("Max@email.com");
         requestDto.setPassword("abcD");
 
         LoginResponseDto responseDto = userController.login(requestDto);
